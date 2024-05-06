@@ -1,2 +1,0 @@
-# .github
-MCC README
